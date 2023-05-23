@@ -46,6 +46,7 @@ egresadas de Laboratoria. Tú participación es clave porque les permitirá tene
 un acercamiento inicial a la búsqueda de empleo, que intentaremos sea lo más
 real posible.
 
+
 ## Mentorías durante el proyecto
 
 La participación de personas voluntarias como tú en el proyecto de Job
@@ -57,7 +58,6 @@ tecnología.
 Las actividades estarán divididas en sesiones de revisión y feedback de sus
 herramientas de perfil profesional (CV, LinkedIn y Github Profile) y en
 simulaciones de entrevistas de recursos humanos y entrevistas técnicas.
-
 ## La dinámica de las mentorías y simulaciones
 
 Si bien algunas actividades serán agendadas entre mentora o mentor y su mentee,
@@ -93,12 +93,12 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |**06/12** 04pm MX - 05pm PE/CO - 07pm CL    |
-| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |**13/12** 04pm MX - 05pm PE/CO - 07pm CL    |
-| Sesión de seguimiento al feedback.                  | Abierta  |del 19/12 al 06/01|          |
-| Enviar [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfSznopn13MeH8uoT5KNtiLe61XBoSr-mHju9IlorPXiILNWQ/viewform?usp=sf_link)  evaluación y feedback CV/LinkedIn.| Abierta  |         |hasta el 10/01          |
-| Simulación de entrevista de recursos humanos.       | Abierta  |del 16/01 al 27/01|          |
-| Enviar  [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdePyejItPdXk6yny0tCtCVVVOLIXpX_28lUquIZqQcXjxpVw/viewform?usp=sf_link) evaluación y feedback entrevista. | Abierta  |         |hasta el 31/01          |
+| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
+| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
 
 ### Objetivos de aprendizaje
 
@@ -129,9 +129,9 @@ simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |del 30/01 al 03/02          |por definir          |
-| Simulación de entrevista técnica.            | Abierta  |del 06/02 al 17/02          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |         |hasta el 21/02          |
+| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
+| Simulación de entrevista técnica.            | Abierta  |          |          |
+| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
 
 ### Objetivos de aprendizaje
 
