@@ -78,8 +78,8 @@ ellas y el equipo de Laboratoria.
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
 * 2 sesiones de revisión y feedback de herramientas con la primera estudiante que te hayamos asignado como mentee. (1 sesión de revisión y 1 sesión de seguimiento al feedback) 
-  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado por
-  el equipo de Laboratoria.
+  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado
+  por la estudiante directamente con su mentora/or.
   - Sesión 2: Seguimiento a la incorporación de feedback. Espacio programado
   por la estudiante directamente con su mentora/or.
 * 1 simulación de entrevista de recursos humanos con la segunda estudiante que te hayamos asignado como mentee. Actividad programada por la
@@ -91,14 +91,14 @@ ellas y el equipo de Laboratoria.
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
-|                    Actividades                      |   Tipo   | Semana   | Día/hora |
+|                    Actividades                      |   Tipo   | Día o Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
-| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
-| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
+| Sesión de Q&A sobre el programa.                    |   Fija   |          |     20 de junio, 4pm MX / 5pm PE-CO-EC / 6pm CL      |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Abierta   | del 3 al 7 de julio         |          |
+| Sesión de seguimiento al feedback.                  | Abierta  | del 10 al 14 de julio         |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  | del 17 al 20 de julio         |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  | del 24 de julio al 4 de agosto        |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  | del 7 al 10 de agosto         |          |
 
 ### Objetivos de aprendizaje
 
