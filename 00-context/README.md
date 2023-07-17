@@ -129,7 +129,7 @@ simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          | 08 de agosto, 4pm MX / 5pm PE-CO-EC / 6pm CL         |
+| Sesión de Q&A sobre el programa.             |   Fija   |          | 07 de agosto, 4pm MX / 5pm PE-CO-EC / 6pm CL         |
 | Simulación de entrevista técnica.            | Abierta  |          |del 14 al 26 de agosto         |
 | Enviar formulario evaluación y feedback.     | Abierta  |          |del 25 al 28 de agosto          |
 
