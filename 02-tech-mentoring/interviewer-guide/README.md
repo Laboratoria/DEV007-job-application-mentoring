@@ -209,7 +209,7 @@ recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
 en los puntos que podría mejorar.
 
 2)**Feedback hacia el equipo**, el que realizarás a través de un 
-[_score card_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) que te pedirá evaluar
+[_score card_](https://docs.google.com/forms/d/e/1FAIpQLSfifjcXg7xFI50OTjYesqh9N0DK0PcrB0Lp-FA7juTbI7wYog/viewform?usp=sf_link) que te pedirá evaluar
 su desempeño en los distintos aspectos que integran la simulación y dejarnos
 recomendaciones para el equipo.
 
